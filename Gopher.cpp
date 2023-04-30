@@ -1,7 +1,6 @@
 /*
 Ethan Henderson
-4/14/2023
-Section 2 
+This is a game where you have to select tiles that do not have gophers in them. This is similar to minesweeper in that 
 */
 
 #include <iostream>
